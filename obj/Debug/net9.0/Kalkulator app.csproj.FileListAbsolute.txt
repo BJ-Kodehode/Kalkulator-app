@@ -1,0 +1,15 @@
+C:\Koding\Kurs\C#\Kalkulator app\bin\Debug\net9.0\Kalkulator app.exe
+C:\Koding\Kurs\C#\Kalkulator app\bin\Debug\net9.0\Kalkulator app.deps.json
+C:\Koding\Kurs\C#\Kalkulator app\bin\Debug\net9.0\Kalkulator app.runtimeconfig.json
+C:\Koding\Kurs\C#\Kalkulator app\bin\Debug\net9.0\Kalkulator app.dll
+C:\Koding\Kurs\C#\Kalkulator app\bin\Debug\net9.0\Kalkulator app.pdb
+C:\Koding\Kurs\C#\Kalkulator app\obj\Debug\net9.0\Kalkulator app.GeneratedMSBuildEditorConfig.editorconfig
+C:\Koding\Kurs\C#\Kalkulator app\obj\Debug\net9.0\Kalkulator app.AssemblyInfoInputs.cache
+C:\Koding\Kurs\C#\Kalkulator app\obj\Debug\net9.0\Kalkulator app.AssemblyInfo.cs
+C:\Koding\Kurs\C#\Kalkulator app\obj\Debug\net9.0\Kalkulator app.csproj.CoreCompileInputs.cache
+C:\Koding\Kurs\C#\Kalkulator app\obj\Debug\net9.0\Kalkulator app.sourcelink.json
+C:\Koding\Kurs\C#\Kalkulator app\obj\Debug\net9.0\Kalkulator app.dll
+C:\Koding\Kurs\C#\Kalkulator app\obj\Debug\net9.0\refint\Kalkulator app.dll
+C:\Koding\Kurs\C#\Kalkulator app\obj\Debug\net9.0\Kalkulator app.pdb
+C:\Koding\Kurs\C#\Kalkulator app\obj\Debug\net9.0\Kalkulator app.genruntimeconfig.cache
+C:\Koding\Kurs\C#\Kalkulator app\obj\Debug\net9.0\ref\Kalkulator app.dll
